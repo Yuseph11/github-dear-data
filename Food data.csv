@@ -1,0 +1,146 @@
+﻿Day ,Food,Time ,Energy level(1-5)
+Monday,,,
+,Toast and eggs (Breakfast),07:20-07:30,5
+,No food,07:31-11:00,4
+,No food,11:01-14:00,3
+,Snacks,14:01-14:30,4
+,No food,14:31:-16:00,3
+,No food,16:01-19:00,2
+,Chicken & Salad (Dinner),19:01-19:40,5
+Tuesday,,,
+,Toast and eggs (Breakfast),07:20-07:30,5
+,No food,07:31-11:29,4
+,Burger and chicken wings (Lunch),11:30-12:00,5
+,No food,12:01-15:00,3
+,"Chicken, eggs & salad (Meal)",15:01-15:30,4
+,No food,15:31-19:45,3
+,Meat (Dinner),19:46-20:20,5
+Wednesday,,,
+,Cereal (Breakfast),09:00-09:20,5
+,No food,09:21-14:00,2
+,Spaghetti (Lunch),14:01-14:20,4
+,No food,14:21-15:30,3
+,Snacks,15:31-15:45,4
+,No food,15:46-19:50,3
+,Butter Chicken (Dinner),19:51-20:20,5
+Thursday,,,
+,Cereal (Breakfast),10:35-10:50,5
+,No food,10:51-13:59,2
+,Butter Chicken (Lunch),14:00-14:30,4
+,No food,14:01-18:00,3
+,Snacks,18:01-18:20,4
+,No food,18:21-23:10,3
+,Rice & Chicken (Dinner),23:11-23:30,5
+Friday,,,
+,No food ,09:30-12:29,1
+,Chicken Shawarma (Lunch),12:30-12:50,3
+,No food,12:51-13:50,2
+,Snacks,13:51-14:15,4
+,No food ,14:16-17:49,3
+,Chicken (Dinner),17:50-18:20,5
+Saturday ,,,
+,Cereal (Breakfast),10:00-10:20,5
+,No food ,10:21-15:00,4
+,Pasta (Lunch),15:01-15:20,5
+,No food ,15:21-19:00,3
+,Chicken & Rice (Dinner),19:01-19:20,5
+Sunday ,,,
+,Toast and eggs (Breakfast),11:00-11:20,5
+,No food,11:21-14:00,2
+,Meat (Lunch),14:01-14:30,4
+,No food,14:31-16:00,2
+,Snacks,16:01-16:20,3
+,No food ,16:21-18:59,2
+,Chicken burgers ,19:00-19:30,5
+Monday,,,
+,Cereal (Breakfast),07:00-07:20,5
+,No food,07:20-12:09,2
+,Snacks,12:10-12:30,3
+,No food ,12:31-13:59,2
+,Sandwich meal (Lunch),14:00-14:30,4
+,No food,14:31-16:29,3
+,Snacks,16:30-17:00,4
+,No food ,17:01-20:00,3
+,Steak (Dinner),20:01-20:35,5
+Tuesday,,,
+,English breakfast,11:20-12:00,5
+,No food,12:01-14:00,4
+,Snacks,14:01-14:20,5
+,No food ,14:21-17:00,3
+,Chicken sandwich (Lunch),17:01-17:16,5
+,No food,17:17-19:59,4
+,Meat &Rice (Dinner),20:00-20:30,5
+Wednesday,,,
+,French toast (Breakfast),10:30-11:00,5
+,No food,11:01-14:00,3
+,Chicken strips (Lunch),14:01-14:30,5
+,No food ,14:31-16:30,4
+,Snacks,16:31-17:00,5
+,No food,17:01-19:59,3
+,Grill chicken meal(Dinner),20:00-20:30,5
+Thursday,,,
+,Pancake(Brunch),12:00-12:30,4
+,No food ,12:31-15:00,3
+,Rice & Chicken (Lunch),15:01-15:20,5
+,No food ,15:21-18:00,4
+,Snacks,18:01-18:11,5
+,No food ,18:12-20:00,4
+,Chicken burgers(Dinner),20:01-20:30,5
+Friday,,,
+,Toast and eggs (Breakfast),09:00-09:20,5
+,No food ,09:21-12:29,2
+,Fried Chicken (Lunch),12:30-13:00,4
+,No food ,13:01-16:30,3
+,Snacks,16:31-16:41,4
+,No food ,16:41-20:00,2
+,Rice & Chicken ,20:01-20:30,5
+Saturday ,,,
+,Toast and eggs (Breakfast),11:00-11:30,5
+,No food ,11:31-14:00,3
+,Snacks,14:01-14:20,4
+,No food ,14:21-15:29,3
+,Fish & Chips (Lunch),15:30:16:00,5
+,No food,16:00-20:00,3
+,Meat (Dinner),20:01-20:30,5
+Sunday ,,,
+,Toast and eggs (Breakfast),11:44-12:10,5
+,No food,12:11-14:20,4
+,Chicken & Rice (Lunch),14:21-14:40,5
+,No food,14:41-17:00,3
+,Snacks ,17:01-17:15,4
+,No food ,17:16-20:00,3
+,Pizza (Dinner),20:01-20:35,5
+Monday,,,
+,Toast and eggs (Breakfast),07:00-07:30,5
+,No food,07:31-12:00,2
+,Snacks,12:01-12:20,3
+,No food,12:21-13:30,2
+,Lunch,13:31-14:00,4
+,No food,14:01-19:00,1
+,Spaghetti (Dinner),19:01-19:40,5
+Tuesday,,,
+,Toast and eggs (Breakfast),07:00-07:20,5
+,No food,07:21-12:00,2
+,Sandwich meal (Lunch),12:01-12:30,4
+,No food ,12:31-15:00,3
+,Snacks,15:01-15:15,4
+,No food,15:16-19:30,2
+,Chicken & Rice (Dinner),19:31-20:15,5
+Wednesday,,,
+,Toast and eggs (Breakfast),07:00-07:20,5
+,No food ,07:21-12:00,2
+,Fish & Chips (Lunch),12:01-12:30,4
+,No food,12:31-15:00,3
+,Snacks,15:01-15:15,4
+,No food ,15:16-19:00,2
+,Chicken salad (Dinner),19:00-19:30,5
+Thursday ,,,
+,Toast and eggs (Breakfast),07:00-07:20,5
+,No food ,07:20-12:59,3
+,Fish & Chips (Lunch),13:00-13:30,5
+,No food ,13:31-15:00,3
+,Snacks,15:01-15:10,4
+,No food ,15:11-18:00,2
+,Snacks,18:01-18:15,3
+,No food ,18:16-19:50,2
+,Chicken (Dinner),19:51-20:15,5
