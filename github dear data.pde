@@ -32,3 +32,5 @@ class FoodDay {
      if(moodChange()<0 )return color(255, 15, 35 ); // Mood is worse
      return color(165, 170, 169); // Mood is the same
 }
+
+// This is a test
